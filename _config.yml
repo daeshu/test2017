@@ -3,7 +3,7 @@ title:              Massively
 bio:                'Test 2017'
 description:        "Test 2017"
 locale:             es_ES
-baseurl: "/test2017" # the subpath of your site, e.g. /blog
+baseurl: "https://daeshu.github.io/test2017/" # the subpath of your site, e.g. /blog
 url: "https://daeshu.github.io/test2017/" # the base hostname & protocol for your site
 
 defaults:
