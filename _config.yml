@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              DAESHU
 bio:                'Test 2017'
 description:        "Test 2017"
 locale:             es_ES
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Tacna, PE
+phone:              999-999-9999
+email:              No mail
 
 # Gems
 gems:
