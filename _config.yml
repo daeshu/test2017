@@ -3,7 +3,7 @@ title:              Massively
 bio:                'Test 2017'
 description:        "Test 2017"
 locale:             es_ES
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
